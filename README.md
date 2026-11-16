@@ -94,8 +94,8 @@ Qdrant : http://localhost:6333/dashboard · Neo4j : http://localhost:7474
 
 | Membre | Rôle principal | Responsabilités |
 |---|---|---|
-| Membre A | IA / RAG | Ingestion, Qdrant, retrieval hybride, reranker, routeur, évaluation Ragas |
-| Membre B | Data / Fullstack | PostgreSQL, Neo4j, simulation, API, frontend/carte, CI/CD, Docker |
+| Yasmine Mizouri | IA / RAG | Ingestion, Qdrant, retrieval hybride, reranker, routeur, évaluation Ragas |
+| Ayoub Louati | Data / Fullstack | PostgreSQL, Neo4j, simulation, API, frontend/carte, CI/CD, Docker |
 
 Revue croisée obligatoire : chaque Pull Request est relue par l'autre membre.
 
