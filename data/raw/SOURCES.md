@@ -17,6 +17,8 @@ Téléchargé le 2026-11-16. Les licences sont à confirmer avant publication du
 | `who_emt_blue_book_2021.pdf` | 82 | https://extranet.who.int/emt/sites/default/files/BlueBook2021.pdf |
 | `who_wash_risk_management_2017.pdf` | 2 | https://cdn.who.int/media/docs/default-source/disaster-mngmt/risk-management-wash-december2017.pdf |
 | `sphere_handbook_2018.pdf` | 458 | https://globalprotectioncluster.org/sites/default/files/2022-11/sphere-handbook-2018-en.pdf (copie ; version officielle : spherestandards.org) |
+| `cdc_food_safety_power_outage.pdf` | 1 | https://stacks.cdc.gov/view/cdc/88473/cdc_88473_DS1.pdf |
+| `cdc_power_outage_fact_sheet.pdf` | 6 | https://stacks.cdc.gov/view/cdc/48455/cdc_48455_DS1.pdf |
 
 ## Données — `fema/` et `geo/`
 

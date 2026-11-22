@@ -6,6 +6,8 @@ services:
       - "6334:6334"
     volumes:
       - qdrant_data:/qdrant/storage
+    networks:
+      - survivalops
 
   postgres:
     image: postgis/postgis:16-3.4
@@ -14,6 +16,8 @@ services:
       - "5432:5432"
     volumes:
       - pg_data:/var/lib/postgresql/data
+    networks:
+      - survivalops
 
   neo4j:
     image: neo4j:5.26
@@ -24,8 +28,14 @@ services:
       - "7687:7687"
     volumes:
       - neo4j_data:/data
+    networks:
+      - survivalops
 
 volumes:
   qdrant_data:
   pg_data:
   neo4j_data:
+
+networks:
+  survivalops:
+    driver: bridge
